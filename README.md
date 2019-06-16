@@ -1,5 +1,5 @@
-# Go Todo REST API Example
-A RESTful API example with Go
+# Go REST API Example
+A RESTful API with Go
 
 It is a just simple tutorial or example for making simple RESTful API with Go using **gorilla/mux** (A nice mux library) and **mgo.v2** (MongoDb Driver)
 
